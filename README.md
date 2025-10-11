@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naren Imbachi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Full-Stack Developer | Java & Angular Specialist</h3>
+<h1 align="center">Hi 👋, I'm Naren Imbachi</h1>
+<h3 align="center">Full-Stack Developer | Java & Angular Specialist </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NareImbachi&label=Profile%20views&color=0e75b6&style=flat" alt="nareimbachi" />
@@ -54,5 +54,4 @@ As a final-year Systems Engineering student, my passion is to transform ideas in
 <h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
-  <!-- Add other links here, like your email or portfolio -->
 </p>
