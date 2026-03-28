@@ -8,7 +8,7 @@
 ---
 
 <p align="left">
-As a final-year Systems Engineering student, my passion is to transform ideas into <strong>robust, intuitive, and lasting web applications</strong>. I operate across the full tech stack, architecting resilient microservices and REST APIs with <strong>Java & Spring Boot</strong>, while bringing fluid user interfaces to life with <strong>Angular & TypeScript</strong>. Underpinning my technical skills is a firm belief that the best solutions emerge from collaboration. I'm a proactive communicator who thrives on analyzing different perspectives to synthesize a <strong>unified and superior technical strategy</strong>, always seeking the smartest path to solve a problem.
+Systems Engineering, my passion is to transform ideas into <strong>robust, intuitive, and lasting web applications</strong>. I operate across the full tech stack, architecting resilient microservices and REST APIs with <strong>Java & Spring Boot</strong>, while bringing fluid user interfaces to life with <strong>Angular & TypeScript</strong>. Underpinning my technical skills is a firm belief that the best solutions emerge from collaboration. I'm a proactive communicator who thrives on analyzing different perspectives to synthesize a <strong>unified and superior technical strategy</strong>, always seeking the smartest path to solve a problem.
 </p>
 
 ---
