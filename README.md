@@ -30,6 +30,7 @@ As a final-year Systems Engineering student, my passion is to transform ideas in
 <p>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" alt="spring" width="45" height="45"/></a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" alt="angular" width="45" height="45"/></a>
+   <a href="https://react.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="45" height="45"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="45" height="45"/></a>
 </p>
 
@@ -53,5 +54,5 @@ As a final-year Systems Engineering student, my passion is to transform ideas in
 
 <h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+  <a href="[https://linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/naren-alejandro-imbachi-quinayas-028a413b3/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
 </p>
