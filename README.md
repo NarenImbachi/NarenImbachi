@@ -37,7 +37,9 @@ Systems Engineering, my passion is to transform ideas into <strong>robust, intui
 **Databases & Tools:**
 <p>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="45" height="45"/></a>
+  
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RabbitMQ-Dark.svg" alt="rabbitmq" width="45" height="45"/></a>
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="45" height="45"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="github" width="45" height="45"/></a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="45" height="45"/></a>
